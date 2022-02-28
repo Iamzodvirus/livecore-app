@@ -1,0 +1,22 @@
+
+@use "./custom" as *;
+
+.ha {
+  background-color: $Navbarcolor !important;
+}
+
+.ull {
+  color: $navcontentcolor !important;
+  font-size: $navcontentsize;
+}
+
+.ulll:hover {
+  color: $navlihover !important;
+  font-weight: bolder;
+}
+.bot {
+  background-color: $btncolor;
+  color: $btntextcolor;
+  font-size: $btnfontsize;
+}
+
