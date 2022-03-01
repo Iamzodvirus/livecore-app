@@ -1,4 +1,4 @@
-# **Sport App**
+# **Livescore App**
 
 ![Design preview for the sport app](./design/desktop-preview.jpg)
 

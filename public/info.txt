@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Arimo-Bold
+font link: https://fonts.google.com/specimen/Arimo
+font author: Steve Matteson
+font author site: https://twitter.com/@SteveMatteson1
+Slogan Font: Arimo-Bold
+
+icon designer: James Zamyslianskyj
+icon designer link: /zamyslianskyj
+        
+{"bg":"#00acff","font":"#ffffff","icon":"#010033","slogan":"#ffffff"}
+      
