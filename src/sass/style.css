@@ -29,10 +29,15 @@
 }
 
 .olo {
-  margin-top: 600px;
+  background-image: url("../images/animated\ soccer\ 4.jpg");
+  height: 55vh;
+  background-repeat: no-repeat;
 }
 .ol {
   text-align: center;
+  padding-top: 400px;
+  border: 1px solid rgb(49, 14, 14);
+  color: rgb(245, 17, 17);
 }
 
 /*# sourceMappingURL=style.css.map */

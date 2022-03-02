@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../App";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const Content = () => {
   const [data, setData] = useState([]);
@@ -20,16 +21,16 @@ const Content = () => {
 
   return (
     <>
-      <h2>Preview Highlight and Game stats</h2>
+      <h2 className="mt-3">Preview Highlight and Game stats</h2>
 
       <Link className="btn mer-wa" to="/">
         Go Back
       </Link>
-      <div className="content-container">
+      <div className="content-container row">
         {data.map((item) => (
           <div
             key={item.thumbnail}
-            className="video-div"
+            className="video-div col-lg-3 col-md-4 col-sm-6 col-xsm-6"
             onClick={() => window.open(item.matchviewUrl)}
           >
             <div>

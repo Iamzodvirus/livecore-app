@@ -12,7 +12,7 @@ export default class Navbar extends Component {
           <div className="container-fluid">
             <Link
               to="/"
-              className="nav-link active  mx-3 text-light  ull ulll TEX"
+              className=" text-uppercase nav-link active  mx-3 text-light  ull ulll "
               aria-current="page"
             >
               LIVESCORE
