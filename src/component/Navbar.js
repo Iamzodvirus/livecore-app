@@ -36,7 +36,7 @@ export default class Navbar extends Component {
               <ul className="navbar-nav ms-auto">
                 <li className="nav-item">
                   <Link
-                    to="/content"
+                    to="/Content"
                     className="nav-link active  mx-3 text-light  ull ulll"
                     aria-current="page"
                   >

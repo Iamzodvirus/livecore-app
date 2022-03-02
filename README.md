@@ -1,6 +1,6 @@
 # **Livescore App**
 
-![Design preview for the sport app](./design/desktop-preview.jpg)
+![Design preview for the livescore app](./design/desktop-preview.jpg)
 
 ## Table of contents
 
